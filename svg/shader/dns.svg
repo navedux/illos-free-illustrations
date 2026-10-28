@@ -1,0 +1,182 @@
+<svg class="sh-dns" xmlns="http://www.w3.org/2000/svg" width="720" height="460" viewBox="0 0 720 460" fill="none" stroke="#1daf9c" role="img" aria-labelledby="sh-dns-t" aria-describedby="sh-dns-d">
+<title id="sh-dns-t">DNS lookup</title>
+<desc id="sh-dns-d">A laptop asks for a name; its resolver asks the root of the name tree, then the COM zone, then the domain's own server, each pointing it to the next, and the server's address record lights and its address comes back to the laptop.</desc>
+<style>@scope (svg.sh-dns) {
+:scope{--_ground:#ffffff;--_ink:#2a2a2a;--_ramp-1:#16645a;--_ramp-2:#1daf9c;--_ramp-3:#3fdec9;--_ramp-4:#c2f5ee;--_mark:#178c7d;--_spark:#0b463e}
+@media (prefers-color-scheme: dark){:scope{--_ground:#101112;--_ink:#dadadc;--_ramp-1:#84ebdd;--_ramp-2:#3fdec9;--_ramp-3:#1daf9c;--_ramp-4:#1a7569;--_mark:#3fdec9;--_spark:#ffffff}}
+:scope{stroke:none;--g:var(--illos-ground,var(--_ground));--k:var(--illos-ink,var(--_ink))}
+.b0,.b1,.b2,.b3{fill:none;stroke-dasharray:7 2.4}
+.b0{stroke:var(--illos-ramp-1,var(--_ramp-1))}.b1{stroke:var(--illos-ramp-2,var(--_ramp-2))}.b2{stroke:var(--illos-ramp-3,var(--_ramp-3))}.b3{stroke:var(--illos-ramp-4,var(--_ramp-4));opacity:.55}
+.sc{fill:none;stroke:rgb(from color-mix(in srgb,var(--illos-ramp-4,var(--_ramp-4)) 18%,var(--g)) r g b/clamp(.33,(r + g + b)/382.5,1));stroke-width:.8}
+.bm{fill:none;stroke:var(--illos-ramp-2,var(--_ramp-2));stroke-width:2.4;stroke-dasharray:5 2.4}
+.sp{fill:none;stroke:var(--illos-spark,var(--_spark));stroke-width:1.2;stroke-linecap:round;opacity:.85}
+.gr{stroke:rgb(from color-mix(in srgb,var(--k) 9%,var(--g)) r g b/clamp(.67,(r + g + b)/382.5,1));stroke-width:1}
+.bx,.ln,.lv{fill:none;stroke:var(--illos-mark,var(--_mark));stroke-width:1.2}
+.dot{fill:var(--illos-mark,var(--_mark))}.cf{fill:var(--illos-mark,var(--_mark))}
+.ct{fill:none;stroke:var(--g);stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round}
+.tx{fill:none;stroke:var(--illos-mark,var(--_mark));stroke-width:1;stroke-linecap:round;stroke-linejoin:round}.ul{fill:none;stroke:var(--illos-mark,var(--_mark));stroke-width:1.2}
+@keyframes sh-dns_u-com{0%{opacity:1}6.667%{opacity:1;animation-timing-function:cubic-bezier(0.23,1,0.32,1)}9.333%{opacity:0}36%{opacity:0;animation-timing-function:cubic-bezier(0.23,1,0.32,1)}39.333%{opacity:1}100%{opacity:1}}
+.u-com{opacity:1;animation:sh-dns_u-com 4.5s linear both}
+@keyframes sh-dns_u-example{0%{opacity:1}6.667%{opacity:1;animation-timing-function:cubic-bezier(0.23,1,0.32,1)}9.333%{opacity:0}56.444%{opacity:0;animation-timing-function:cubic-bezier(0.23,1,0.32,1)}59.778%{opacity:1}100%{opacity:1}}
+.u-example{opacity:1;animation:sh-dns_u-example 4.5s linear both}
+@keyframes sh-dns_u-app{0%{opacity:1}6.667%{opacity:1;animation-timing-function:cubic-bezier(0.23,1,0.32,1)}9.333%{opacity:0}76.889%{opacity:0;animation-timing-function:cubic-bezier(0.23,1,0.32,1)}80.222%{opacity:1}100%{opacity:1}}
+.u-app{opacity:1;animation:sh-dns_u-app 4.5s linear both}
+@keyframes sh-dns_addr{0%{opacity:1}6.667%{opacity:1;animation-timing-function:cubic-bezier(0.23,1,0.32,1)}9.333%{opacity:0}86.667%{opacity:0;animation-timing-function:cubic-bezier(0.23,1,0.32,1)}90%{opacity:1}100%{opacity:1}}
+.addr{opacity:1;animation:sh-dns_addr 4.5s linear both}
+@keyframes sh-dns_clock{0%{opacity:0}100%{opacity:0}}
+.sh-clock{animation:sh-dns_clock 4.5s linear both}
+*{animation-iteration-count:1!important;animation-fill-mode:both!important;animation-play-state:var(--illos-play,running)!important}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+}
+</style>
+<g class="sh-still"><path class="sc" d="M4 0V460M11 0V460M18 0V460M25 0V460M32 0V460M39 0V460M46 0V460M53 0V460M60 0V460M67 0V460M74 0V460M81 0V460M88 0V460M95 0V460M102 0V460M109 0V460M116 0V460M123 0V460M130 0V460M137 0V460M144 0V460M151 0V460M158 0V460M165 0V460M172 0V460M179 0V460M186 0V460M193 0V460M200 0V460M207 0V460M214 0V460M221 0V460M228 0V460M235 0V460M242 0V460M249 0V460M256 0V460M263 0V460M270 0V460M277 0V460M284 0V460M291 0V460M298 0V460M305 0V460M312 0V460M319 0V460M326 0V460M333 0V460M340 0V460M347 0V460M354 0V460M361 0V460M368 0V460M375 0V460M382 0V460M389 0V460M396 0V460M403 0V460M410 0V460M417 0V460M424 0V460M431 0V460M438 0V460M445 0V460M452 0V460M459 0V460M466 0V460M473 0V460M480 0V460M487 0V460M494 0V460M501 0V460M508 0V460M515 0V460M522 0V460M529 0V460M536 0V460M543 0V460M550 0V460M557 0V460M564 0V460M571 0V460M578 0V460M585 0V460M592 0V460M599 0V460M606 0V460M613 0V460M620 0V460M627 0V460M634 0V460M641 0V460M648 0V460M655 0V460M662 0V460M669 0V460M676 0V460M683 0V460M690 0V460M697 0V460M704 0V460M711 0V460M718 0V460"/><path class="gr" d="M0 0V460M96 0V460M192 0V460M288 0V460M384 0V460M480 0V460M576 0V460M672 0V460M0 0H720M0 96H720M0 192H720M0 288H720M0 384H720"/><path class="b0" d="M46 159.8V166.8M53 159.8V166.8M60 159.8V166.8M67 159.8V166.8M74 159.8V166.8M81 159.8V166.8M158 338.4V345.4M165 338.4V345.4M340 357.2V364.2M347 357.2V364.2M354 357.2V364.2M361 357.2V364.2M368 75.2V82.2M368 357.2V364.2M375 357.2V364.2M382 357.2V364.2M389 357.2V364.2M396 357.2V364.2M403 103.4V110.4M403 357.2V364.2M410 47V54M410 357.2V364.2M417 103.4V110.4" stroke-width="3.6"/><path class="b1" d="M32 197.4V204.4M39 150.4V204.4M46 150.4V157.4M46 169.2V176.2M46 188V204.4M53 150.4V157.4M53 169.2V176.2M53 188V204.4M60 150.4V157.4M60 169.2V176.2M60 188V204.4M67 150.4V157.4M67 169.2V176.2M74 150.4V157.4M74 188V204.4M81 150.4V157.4M81 197.4V204.4M88 188V204.4M95 150.4V157.4M95 188V204.4M102 197.4V204.4M130 338.4V345.4M144 319.6V326.6M151 329V354.8M158 329V336M158 347.8V354.8M165 329V336M172 319.6V326.6M172 357.2V364.2M326 188V195M326 206.8V223.2M333 188V213.8M340 329V354.8M340 366.6V392.4M347 338.4V354.8M347 366.6V392.4M354 178.6V185.6M354 235V260.8M361 169.2V176.2M361 282V298.4M368 84.6V91.6M368 159.8V166.8M375 56.4V63.4M375 84.6V91.6M375 150.4V157.4M382 94V101M389 47V54M389 131.6V138.6M396 103.4V110.4M396 131.6V138.6M403 122.2V129.2M410 112.8V119.8M431 47V54M438 94V101M445 56.4V63.4M445 84.6V91.6M452 75.2V91.6" stroke-width="2.7"/><path class="b2" d="M67 188V195M74 216.2V223.2M81 188V195M81 225.6V232.6M88 150.4V157.4M95 159.8V185.6M102 253.8V260.8M109 263.2V270.2M116 272.6V279.6M130 291.4V298.4M130 329V336M130 347.8V354.8M137 300.8V307.8M137 319.6V336M137 347.8V364.2M144 338.4V345.4M144 357.2V364.2M151 319.6V326.6M151 357.2V364.2M158 319.6V326.6M158 357.2V364.2M165 319.6V326.6M165 347.8V364.2M172 338.4V354.8M179 319.6V336M179 347.8V364.2M186 329V354.8M193 300.8V307.8M193 319.6V326.6M200 319.6V326.6M207 291.4V298.4M221 272.6V279.6M228 263.2V270.2M228 347.8V354.8M235 253.8V260.8M242 282V289M249 272.6V279.6M256 263.2V270.2M284 357.2V364.2M298 357.2V364.2M312 216.2V223.2M319 169.2V176.2M326 159.8V166.8M326 197.4V204.4M326 225.6V232.6M333 216.2V232.6M347 188V232.6M347 329V336M354 188V232.6M354 263.2V270.2M361 122.2V129.2M361 188V232.6M361 272.6V279.6M361 329V354.8M361 366.6V392.4M368 65.8V72.8M368 197.4V204.4M368 216.2V242M368 329V354.8M368 366.6V392.4M375 65.8V82.2M375 216.2V232.6M375 329V354.8M375 366.6V392.4M382 56.4V63.4M382 141V148M382 329V354.8M382 366.6V392.4M389 94V101M389 141V148M389 338.4V354.8M389 385.4V392.4M396 47V54M396 122.2V129.2M396 338.4V354.8M396 385.4V392.4M403 75.2V82.2M403 338.4V345.4M403 385.4V392.4M410 65.8V91.6M417 47V54M417 75.2V82.2M424 47V54M424 103.4V119.8M431 56.4V63.4M431 94V101M438 56.4V63.4M438 131.6V138.6M445 65.8V82.2M445 94V101M445 291.4V298.4M452 65.8V72.8M452 197.4V232.6M459 197.4V232.6M473 197.4V204.4M473 216.2V232.6M473 338.4V373.6M480 206.8V213.8M480 225.6V232.6M480 338.4V373.6M501 338.4V345.4M501 357.2V364.2M508 357.2V364.2M578 188V223.2M585 188V223.2M592 329V364.2M599 188V204.4M599 329V364.2M606 216.2V223.2M613 338.4V345.4M613 357.2V364.2M620 329V364.2M627 338.4V345.4" stroke-width="1.8"/><path class="b3" d="M46 178.6V185.6M53 178.6V185.6M60 178.6V185.6M67 178.6V185.6M67 197.4V213.8M74 169.2V185.6M81 169.2V185.6M88 159.8V185.6M88 235V251.4M95 244.4V251.4M123 282V289M137 338.4V345.4M144 329V336M144 347.8V354.8M151 310.2V317.2M151 366.6V373.6M158 310.2V317.2M158 366.6V373.6M165 310.2V317.2M172 329V336M179 338.4V345.4M186 310.2V317.2M193 338.4V345.4M200 300.8V307.8M200 347.8V354.8M207 310.2V317.2M214 282V289M214 300.8V307.8M214 347.8V354.8M249 347.8V354.8M263 253.8V260.8M263 357.2V364.2M270 216.2V223.2M277 244.4V251.4M284 235V242M298 197.4V204.4M305 188V195M312 178.6V185.6M319 206.8V213.8M333 150.4V157.4M340 150.4V157.4M340 188V232.6M347 141V148M354 131.6V138.6M354 329V354.8M354 366.6V392.4M368 94V101M368 112.8V119.8M368 188V195M368 206.8V213.8M375 94V101M375 188V213.8M375 235V251.4M382 47V54M382 65.8V72.8M382 84.6V91.6M382 103.4V110.4M382 150.4V157.4M382 188V251.4M389 56.4V63.4M389 103.4V110.4M389 235V242M389 253.8V260.8M389 329V336M389 366.6V383M396 56.4V63.4M396 75.2V82.2M396 94V101M396 244.4V260.8M396 329V336M396 366.6V383M403 47V54M403 65.8V72.8M403 84.6V101M403 112.8V119.8M403 244.4V251.4M403 263.2V270.2M403 329V336M403 347.8V354.8M403 366.6V383M410 37.6V44.6M410 56.4V63.4M410 103.4V110.4M410 244.4V251.4M410 263.2V270.2M410 329V354.8M410 366.6V392.4M417 65.8V72.8M417 84.6V101M417 253.8V260.8M417 272.6V279.6M424 56.4V82.2M424 253.8V260.8M424 272.6V279.6M431 75.2V91.6M431 103.4V110.4M431 122.2V129.2M431 253.8V260.8M431 282V289M438 47V54M438 65.8V91.6M438 103.4V110.4M438 253.8V260.8M438 291.4V298.4M445 141V157.4M445 263.2V270.2M452 150.4V166.8M452 263.2V270.2M452 300.8V307.8M459 94V101M459 159.8V176.2M459 263.2V270.2M459 300.8V307.8M466 94V101M466 178.6V185.6M466 206.8V232.6M466 263.2V270.2M466 310.2V317.2M473 103.4V110.4M473 188V195M473 206.8V213.8M473 272.6V279.6M473 310.2V317.2M480 103.4V110.4M480 197.4V204.4M480 216.2V223.2M480 272.6V279.6M480 319.6V326.6M487 103.4V119.8M487 206.8V232.6M487 272.6V279.6M487 319.6V326.6M487 338.4V354.8M494 112.8V119.8M494 206.8V223.2M494 272.6V279.6M494 329V373.6M501 112.8V119.8M501 282V289M501 347.8V354.8M501 366.6V373.6M508 122.2V129.2M508 282V289M508 347.8V354.8M508 366.6V373.6M515 122.2V129.2M515 282V289M515 338.4V345.4M515 366.6V373.6M522 131.6V138.6M522 291.4V298.4M529 131.6V138.6M529 291.4V298.4M536 141V148M536 291.4V298.4M543 141V148M543 291.4V298.4M550 150.4V157.4M550 300.8V307.8M557 150.4V157.4M557 300.8V307.8M564 159.8V166.8M564 300.8V307.8M571 159.8V166.8M571 300.8V307.8M578 169.2V176.2M578 310.2V317.2M585 169.2V176.2M585 310.2V317.2M592 178.6V204.4M592 216.2V223.2M592 310.2V317.2M599 178.6V185.6M599 206.8V223.2M599 310.2V317.2M606 188V213.8M606 319.6V336M606 347.8V354.8M613 188V223.2M613 319.6V336M613 347.8V354.8M620 197.4V213.8M627 329V336M627 347.8V364.2M634 329V336M634 347.8V364.2" stroke-width="1.1"/><path class="sp" d="M46 162.2v1.2M67 162.2v1.2M74 162.2v1.2M81 162.2v1.2M340 359.6v1.2M375 359.6v1.2M382 359.6v1.2M410 359.6v1.2"/></g>
+<path class="tx" d="M116 165.4L116 161.8L117.8 160L119.6 161.8L119.6 165.4M116 163.15L119.6 163.15M121.76 165.4L121.76 160L124.46 160L125.36 160.9L125.36 161.8L124.46 162.7L121.76 162.7M127.52 165.4L127.52 160L130.22 160L131.12 160.9L131.12 161.8L130.22 162.7L127.52 162.7M134.63 164.5L135.53 164.5L135.53 165.4L134.63 165.4L134.63 164.5M142.64 160L139.04 160L139.04 165.4L142.64 165.4M139.04 162.7L141.74 162.7M144.8 160L148.4 165.4M148.4 160L144.8 165.4M150.56 165.4L150.56 161.8L152.36 160L154.16 161.8L154.16 165.4M150.56 163.15L154.16 163.15M156.32 165.4L156.32 160L158.12 162.7L159.92 160L159.92 165.4M162.08 165.4L162.08 160L164.78 160L165.68 160.9L165.68 161.8L164.78 162.7L162.08 162.7M167.84 160L167.84 165.4L171.44 165.4M177.2 160L173.6 160L173.6 165.4L177.2 165.4M173.6 162.7L176.3 162.7M180.71 164.5L181.61 164.5L181.61 165.4L180.71 165.4L180.71 164.5M188.72 160.9L187.82 160L186.02 160L185.12 160.9L185.12 164.5L186.02 165.4L187.82 165.4L188.72 164.5M191.78 160L193.58 160L194.48 160.9L194.48 164.5L193.58 165.4L191.78 165.4L190.88 164.5L190.88 160.9L191.78 160M196.64 165.4L196.64 160L198.44 162.7L200.24 160L200.24 165.4"/><g class="u-com"><path class="ul" d="M184.62 169.40H200.74"/></g><g class="u-example"><path class="ul" d="M138.54 169.40H177.70"/></g><g class="u-app"><path class="ul" d="M115.50 169.40H131.62"/></g><g class="addr"><g class="chip"><rect class="cf" x="116" y="176" width="90.96" height="14.9"/><path class="ct" d="M121 181.15L122.15 180L124.45 180L125.6 181.15L125.6 182.3L121 186.9L125.6 186.9M129.51 180L131.81 180L132.96 181.15L132.96 185.75L131.81 186.9L129.51 186.9L128.36 185.75L128.36 181.15L129.51 180M132.96 181.15L128.36 185.75M135.72 181.15L136.87 180L139.17 180L140.32 181.15L140.32 182.3L139.17 183.45L138.02 183.45M139.17 183.45L140.32 184.6L140.32 185.75L139.17 186.9L136.87 186.9L135.72 185.75M144.81 185.75L145.96 185.75L145.96 186.9L144.81 186.9L144.81 185.75M151.59 180L153.89 180L155.04 181.15L155.04 185.75L153.89 186.9L151.59 186.9L150.44 185.75L150.44 181.15L151.59 180M155.04 181.15L150.44 185.75M159.53 185.75L160.68 185.75L160.68 186.9L159.53 186.9L159.53 185.75M165.16 182.3L167.46 180L167.46 186.9M166.31 186.9L168.61 186.9M172.52 182.3L174.82 180L174.82 186.9M173.67 186.9L175.97 186.9M179.88 181.15L181.03 180L183.33 180L184.48 181.15L184.48 182.3L183.33 183.45L182.18 183.45M183.33 183.45L184.48 184.6L184.48 185.75L183.33 186.9L181.03 186.9L179.88 185.75M188.97 185.75L190.12 185.75L190.12 186.9L188.97 186.9L188.97 185.75M194.6 180L199.2 180L196.33 186.9"/></g></g><g class="box"><path class="bx" pathLength="1" d="M322.5 312.6H427.5V406.4H322.5Z"/><circle class="dot" cx="322.5" cy="312.6" r="2.2"/><circle class="dot" cx="427.5" cy="312.6" r="2.2"/><circle class="dot" cx="322.5" cy="406.4" r="2.2"/><circle class="dot" cx="427.5" cy="406.4" r="2.2"/><g class="chip"><rect class="cf" x="322.5" y="312.6" width="90.96" height="14.9"/><path class="ct" d="M332.1 316.6L327.5 316.6L327.5 323.5L332.1 323.5M327.5 320.05L330.95 320.05M334.86 316.6L339.46 323.5M339.46 316.6L334.86 323.5M342.22 323.5L342.22 318.9L344.52 316.6L346.82 318.9L346.82 323.5M342.22 320.63L346.82 320.63M349.58 323.5L349.58 316.6L351.88 320.05L354.18 316.6L354.18 323.5M356.94 323.5L356.94 316.6L360.39 316.6L361.54 317.75L361.54 318.9L360.39 320.05L356.94 320.05M364.3 316.6L364.3 323.5L368.9 323.5M376.26 316.6L371.66 316.6L371.66 323.5L376.26 323.5M371.66 320.05L375.11 320.05M380.75 322.35L381.9 322.35L381.9 323.5L380.75 323.5L380.75 322.35M390.98 317.75L389.83 316.6L387.53 316.6L386.38 317.75L386.38 322.35L387.53 323.5L389.83 323.5L390.98 322.35M394.89 316.6L397.19 316.6L398.34 317.75L398.34 322.35L397.19 323.5L394.89 323.5L393.74 322.35L393.74 317.75L394.89 316.6M401.1 323.5L401.1 316.6L403.4 320.05L405.7 316.6L405.7 323.5"/></g></g>
+<rect class="sh-clock" width="0" height="0"/>
+<metadata class="illos-field" data-cycle="4.5"><![CDATA[// a faint line from a to b, at least a column wide and a cell tall, so it never falls between samples
+float lk(vec2 p, vec2 a, vec2 b, float k) {
+  vec2 ab = b - a;
+  float h = clamp(dot(p - a, ab) / dot(ab, ab), 0.0, 1.0);
+  vec2 d = (p - a - ab * h) / vec2(3.6, 4.8);
+  return k * (1.0 - sm(0.8, 1.05, length(d)));
+}
+// the same, dotted: the resolver's paths
+float dl(vec2 p, vec2 a, vec2 b, float k) { return lk(p, a, b, k) * step(0.45, fract(dot(p - a, normalize(b - a)) / 12.0)); }
+// a server block of w by h cells at column c0, cell k0: records on every row, a short type field then a ragged value.
+// lit flashes it while it answers; ph flickers its rows.
+float rows(float col, float cell, float c0, float k0, float w, float h, float s, float k, float lit, float ph) {
+  float lc = col - c0; float lr = cell - k0;
+  if (lc < 0.0 || lc > w - 1.0 || lr < 0.0 || lr > h - 1.0) return 0.0;
+  float hs = hash(vec2(s, lr));
+  float v = 0.18;
+  if (lc < 1.5) v = 0.62 + 0.08 * sin(ph + hs * 30.0);
+  else if (lc > 2.5 && lc < 3.0 + floor((w - 3.0) * (0.45 + 0.55 * hs))) v = 0.45;
+  return (v + 0.55 * lit * step(0.3, v)) * k;
+}
+float field(vec2 p, float t) {
+  if (p.x < 24.0 || p.x > 696.0 || p.y < 24.0 || p.y > 436.0) return 0.0;
+  float ph = TAU * t / T;
+  float col = floor((p.x - 4.0) / 7.0 + 0.5);
+  float cell = floor(p.y / 9.4);
+  float v = 0.0;
+  float reset = 1.0 - sm(0.3, 0.6, t);
+  float ans = exp(-pow(t - 1.18, 2.0) / 0.01); // the root answering
+  float ansC = exp(-pow(t - 2.10, 2.0) / 0.01);
+  float ansE = exp(-pow(t - 3.02, 2.0) / 0.01);
+  // the tree: the root's branches and COM's branches, faint; a branch lights once it is the referral given
+  float toC = max(reset, sm(1.22, 1.32, t)); float toE = max(reset, sm(2.14, 2.24, t));
+  v = max(v, lk(p, vec2(410.0, 113.700), vec2(354.0, 182.0), 0.3 + 0.32 * toC));
+  v = max(v, lk(p, vec2(422.0, 111.700), vec2(473.0, 191.400), 0.28));
+  v = max(v, lk(p, vec2(454.0, 90.700), vec2(599.0, 182.0), 0.28));
+  v = max(v, lk(p, vec2(354.0, 239.0), vec2(361.0, 296.600), 0.3 + 0.32 * toE));
+  v = max(v, lk(p, vec2(368.0, 239.0), vec2(494.0, 332.400), 0.28));
+  v = max(v, lk(p, vec2(378.0, 239.0), vec2(613.0, 323.0), 0.28));
+  // the root: thirteen server points round a core
+  for (int i = 0; i < 13; i++) {
+    float a = TAU * float(i) / 13.0 - 1.5708;
+    v += blob(p, vec2(410.0, 78.700) + vec2(40.0 * cos(a), 29.0 * sin(a)), 6.5, 0.95 + 0.12 * sin(ph + float(i) * 2.1) + 0.3 * ans);
+  }
+  v += blob(p, vec2(410.0, 78.700), 13.0, 0.62 + 0.55 * ans);
+  {
+    vec2 d = (p - vec2(410.0, 78.700)) / vec2(30.0, 21.0);
+    float hs = hash(floor(p / vec2(7.0, 9.4)) + 3.0);
+    if (length(d) < 1.0) v = max(v, step(0.6, hs) * (0.24 + 0.06 * sin(ph + hs * 40.0)));
+  }
+  // the top-level zones and the domains' servers
+  v = max(v, rows(col, cell, 46.0, 20.0, 9.0, 5.0, 1.0, 1.0, ansC, ph));
+  v = max(v, rows(col, cell, 64.0, 21.0, 7.0, 4.0, 2.0, 0.7, 0.0, ph));
+  v = max(v, rows(col, cell, 82.0, 20.0, 7.0, 4.0, 3.0, 0.7, 0.0, ph));
+  v = max(v, rows(col, cell, 67.0, 36.0, 7.0, 4.0, 4.0, 0.7, 0.0, ph));
+  v = max(v, rows(col, cell, 84.0, 35.0, 7.0, 4.0, 5.0, 0.7, 0.0, ph));
+  v = max(v, rows(col, cell, 48.0, 35.0, 11.0, 7.0, 6.0, 1.0, ansE, ph));
+  // EXAMPLE.COM's A record: its row lights once it is found
+  if (abs(cell - 38.0) < 0.5 && col >= 48.0 && col <= 58.0) v = max(v, 1.1 * max(reset, sm(2.980, 3.060, t)));
+  // the resolver: a dense core in a ring, its dotted paths out to the three it asks
+  v += blob(p, vec2(158.0, 341.900), 15.0, 1.1);
+  v += 0.55 * exp(-pow(length((p - vec2(158.0, 341.900)) * vec2(1.0, 1.15)) - 27.0, 2.0) / 22.0);
+  v = max(v, dl(p, vec2(182.0, 317.900), vec2(380.0, 108.700), 0.34));
+  v = max(v, dl(p, vec2(190.0, 329.900), vec2(318.0, 211.500), 0.34));
+  v = max(v, dl(p, vec2(194.0, 345.900), vec2(298.500, 361.900), 0.34));
+  v = max(v, dl(p, vec2(140.0, 313.900), vec2(67.0, 212.800), 0.34));
+  // the laptop: a screen with a rim and lines on it, a base under it; a line lights once the address arrives
+  {
+    float lc = col - 5.0; float lr = cell - 16.0;
+    if (lr >= 0.0 && lr <= 4.0 && lc >= 0.0 && lc <= 8.0) {
+      float rim = (lc < 0.5 || lc > 7.5 || lr < 0.5 || lr > 3.5) ? 1.0 : 0.0;
+      float on = max(reset, sm(3.880, 3.980, t));
+      float a = 0.16;
+      if (abs(lr - 1.0) < 0.5 && lc > 0.5 && lc < 6.5) a = 0.3 + 0.8 * on; // the page it asked for, once it has the address
+      if (abs(lr - 2.0) < 0.5 && lc > 0.5 && lc < 4.5) a = 0.3 + 0.45 * on;
+      v = max(v, rim > 0.5 ? 0.62 : a);
+    }
+    if (abs(lr - 5.0) < 0.5 && lc >= -1.0 && lc <= 9.0) v = max(v, abs(lc - 4.0) < 0.5 ? 0.25 : 0.7);
+  }
+  // the resolver's questions and the answers
+  {
+    float u = clamp((t - 0.300) / 0.400, 0.0, 1.0);
+    if (u > 0.0 && u < 1.0) {
+      vec2 c = mix(vec2(67.0, 212.800), vec2(158.0, 341.900), ease(u)); vec2 dir = normalize(vec2(158.0, 341.900) - vec2(67.0, 212.800));
+      float k = sm(0.0, 0.08, u) * (1.0 - sm(0.92, 1.0, u));
+      v += blob(p, c, 9.0, 1.2 * k) + blob(p, c - dir * 14.0, 6.5, 0.5 * k) + blob(p, c - dir * 25.0, 4.5, 0.25 * k);
+    }
+  }
+  {
+    float u = clamp((t - 0.740) / 0.400, 0.0, 1.0);
+    if (u > 0.0 && u < 1.0) {
+      vec2 c = mix(vec2(158.0, 341.900), vec2(380.0, 108.700), ease(u)); vec2 dir = normalize(vec2(380.0, 108.700) - vec2(158.0, 341.900));
+      float k = sm(0.0, 0.08, u) * (1.0 - sm(0.92, 1.0, u));
+      v += blob(p, c, 9.0, 1.2 * k) + blob(p, c - dir * 14.0, 6.5, 0.5 * k) + blob(p, c - dir * 25.0, 4.5, 0.25 * k);
+    }
+  }
+  {
+    float u = clamp((t - 1.220) / 0.400, 0.0, 1.0);
+    if (u > 0.0 && u < 1.0) {
+      vec2 c = mix(vec2(380.0, 108.700), vec2(158.0, 341.900), ease(u)); vec2 dir = normalize(vec2(158.0, 341.900) - vec2(380.0, 108.700));
+      float k = sm(0.0, 0.08, u) * (1.0 - sm(0.92, 1.0, u));
+      v += blob(p, c, 9.0, 1.2 * k) + blob(p, c - dir * 14.0, 6.5, 0.5 * k) + blob(p, c - dir * 25.0, 4.5, 0.25 * k);
+    }
+  }
+  {
+    float u = clamp((t - 1.660) / 0.400, 0.0, 1.0);
+    if (u > 0.0 && u < 1.0) {
+      vec2 c = mix(vec2(158.0, 341.900), vec2(318.0, 211.500), ease(u)); vec2 dir = normalize(vec2(318.0, 211.500) - vec2(158.0, 341.900));
+      float k = sm(0.0, 0.08, u) * (1.0 - sm(0.92, 1.0, u));
+      v += blob(p, c, 9.0, 1.2 * k) + blob(p, c - dir * 14.0, 6.5, 0.5 * k) + blob(p, c - dir * 25.0, 4.5, 0.25 * k);
+    }
+  }
+  {
+    float u = clamp((t - 2.140) / 0.400, 0.0, 1.0);
+    if (u > 0.0 && u < 1.0) {
+      vec2 c = mix(vec2(318.0, 211.500), vec2(158.0, 341.900), ease(u)); vec2 dir = normalize(vec2(158.0, 341.900) - vec2(318.0, 211.500));
+      float k = sm(0.0, 0.08, u) * (1.0 - sm(0.92, 1.0, u));
+      v += blob(p, c, 9.0, 1.2 * k) + blob(p, c - dir * 14.0, 6.5, 0.5 * k) + blob(p, c - dir * 25.0, 4.5, 0.25 * k);
+    }
+  }
+  {
+    float u = clamp((t - 2.580) / 0.400, 0.0, 1.0);
+    if (u > 0.0 && u < 1.0) {
+      vec2 c = mix(vec2(158.0, 341.900), vec2(298.500, 361.900), ease(u)); vec2 dir = normalize(vec2(298.500, 361.900) - vec2(158.0, 341.900));
+      float k = sm(0.0, 0.08, u) * (1.0 - sm(0.92, 1.0, u));
+      v += blob(p, c, 9.0, 1.2 * k) + blob(p, c - dir * 14.0, 6.5, 0.5 * k) + blob(p, c - dir * 25.0, 4.5, 0.25 * k);
+    }
+  }
+  {
+    float u = clamp((t - 3.060) / 0.400, 0.0, 1.0);
+    if (u > 0.0 && u < 1.0) {
+      vec2 c = mix(vec2(298.500, 361.900), vec2(158.0, 341.900), ease(u)); vec2 dir = normalize(vec2(158.0, 341.900) - vec2(298.500, 361.900));
+      float k = sm(0.0, 0.08, u) * (1.0 - sm(0.92, 1.0, u));
+      v += blob(p, c, 9.0, 1.2 * k) + blob(p, c - dir * 14.0, 6.5, 0.5 * k) + blob(p, c - dir * 25.0, 4.5, 0.25 * k);
+    }
+  }
+  {
+    float u = clamp((t - 3.500) / 0.400, 0.0, 1.0);
+    if (u > 0.0 && u < 1.0) {
+      vec2 c = mix(vec2(158.0, 341.900), vec2(67.0, 212.800), ease(u)); vec2 dir = normalize(vec2(67.0, 212.800) - vec2(158.0, 341.900));
+      float k = sm(0.0, 0.08, u) * (1.0 - sm(0.92, 1.0, u));
+      v += blob(p, c, 9.0, 1.2 * k) + blob(p, c - dir * 14.0, 6.5, 0.5 * k) + blob(p, c - dir * 25.0, 4.5, 0.25 * k);
+    }
+  }
+  // the resolver flashes as each answer comes back
+  v += blob(p, vec2(158.0, 341.900), 18.0, 0.45 * (exp(-pow(t - 0.7, 2.0) / 0.004) + exp(-pow(t - 1.62, 2.0) / 0.004) + exp(-pow(t - 2.54, 2.0) / 0.004) + exp(-pow(t - 3.46, 2.0) / 0.004)));
+  return v;
+}]]></metadata>
+</svg>

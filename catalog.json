@@ -1,0 +1,502 @@
+[
+  {
+    "name": "Vector search",
+    "theme": "shader",
+    "subject": "vector-search",
+    "summary": "a query lands among your vectors, and the nearest cluster lights up with its score.",
+    "theme_name": "Shader",
+    "size": "spot",
+    "file": "svg/shader/vector-search.svg",
+    "page": "https://illos.dev/library/shader/vector-search"
+  },
+  {
+    "name": "Rate limiting",
+    "theme": "shader",
+    "subject": "rate-limit",
+    "summary": "traffic runs under the limit, and the burst above it is refused.",
+    "theme_name": "Shader",
+    "size": "spot",
+    "file": "svg/shader/rate-limit.svg",
+    "page": "https://illos.dev/library/shader/rate-limit"
+  },
+  {
+    "name": "Streaming tokens",
+    "theme": "shader",
+    "subject": "streaming-tokens",
+    "summary": "the answer streams in chunks, and the response writes itself out line by line.",
+    "theme_name": "Shader",
+    "size": "spot",
+    "file": "svg/shader/streaming-tokens.svg",
+    "page": "https://illos.dev/library/shader/streaming-tokens"
+  },
+  {
+    "name": "Cache layer",
+    "theme": "shader",
+    "subject": "cache-layer",
+    "summary": "a hit comes straight back from the cache, and a miss goes on to the database.",
+    "theme_name": "Shader",
+    "size": "spot",
+    "file": "svg/shader/cache-layer.svg",
+    "page": "https://illos.dev/library/shader/cache-layer"
+  },
+  {
+    "name": "Load balancer",
+    "theme": "shader",
+    "subject": "load-balancer",
+    "summary": "traffic comes in one door, and the balancer spreads it across the servers in turn.",
+    "theme_name": "Shader",
+    "size": "spot",
+    "file": "svg/shader/load-balancer.svg",
+    "page": "https://illos.dev/library/shader/load-balancer"
+  },
+  {
+    "name": "Autoscaling",
+    "theme": "shader",
+    "subject": "autoscaling",
+    "summary": "as load rises new instances bud off it, and as it falls they fold back in.",
+    "theme_name": "Shader",
+    "size": "spot",
+    "file": "svg/shader/autoscaling.svg",
+    "page": "https://illos.dev/library/shader/autoscaling"
+  },
+  {
+    "name": "CDN cache",
+    "theme": "shader",
+    "subject": "cdn-cache",
+    "summary": "content waits at edges near your users, so each request is answered close by.",
+    "theme_name": "Shader",
+    "size": "spot",
+    "file": "svg/shader/cdn-cache.svg",
+    "page": "https://illos.dev/library/shader/cdn-cache"
+  },
+  {
+    "name": "Data pipeline",
+    "theme": "shader",
+    "subject": "data-pipeline",
+    "summary": "raw data flows in messy and leaves clean, combed calmer at every stage.",
+    "theme_name": "Shader",
+    "size": "spot",
+    "file": "svg/shader/data-pipeline.svg",
+    "page": "https://illos.dev/library/shader/data-pipeline"
+  },
+  {
+    "name": "Queue backlog",
+    "theme": "shader",
+    "subject": "queue-backlog",
+    "summary": "jobs pour in faster than workers drain them, then the backlog levels off.",
+    "theme_name": "Shader",
+    "size": "spot",
+    "file": "svg/shader/queue-backlog.svg",
+    "page": "https://illos.dev/library/shader/queue-backlog"
+  },
+  {
+    "name": "Webhook fan-out",
+    "theme": "shader",
+    "subject": "webhook-fanout",
+    "summary": "one event rings out from the source and lands on every subscriber at once.",
+    "theme_name": "Shader",
+    "size": "spot",
+    "file": "svg/shader/webhook-fanout.svg",
+    "page": "https://illos.dev/library/shader/webhook-fanout"
+  },
+  {
+    "name": "Usage billing",
+    "theme": "shader",
+    "subject": "billing-basin",
+    "summary": "usage fills the basin day by day, and at the month's end it drains into the invoice.",
+    "theme_name": "Shader",
+    "size": "spot",
+    "file": "svg/shader/billing-basin.svg",
+    "page": "https://illos.dev/library/shader/billing-basin"
+  },
+  {
+    "name": "RAG answer",
+    "theme": "shader",
+    "subject": "rag",
+    "summary": "the closest pages are pulled in, and the answer is written from them with citations.",
+    "theme_name": "Shader",
+    "size": "spot",
+    "file": "svg/shader/rag.svg",
+    "page": "https://illos.dev/library/shader/rag"
+  },
+  {
+    "name": "DNS lookup",
+    "theme": "shader",
+    "subject": "dns",
+    "summary": "the resolver asks the root, then COM, then the domain, and the address comes back.",
+    "theme_name": "Shader",
+    "size": "spot",
+    "file": "svg/shader/dns.svg",
+    "page": "https://illos.dev/library/shader/dns"
+  },
+  {
+    "name": "Failover",
+    "theme": "shader",
+    "subject": "failover",
+    "summary": "the primary region goes dark, and the router sends every request to the standby.",
+    "theme_name": "Shader",
+    "size": "spot",
+    "file": "svg/shader/failover.svg",
+    "page": "https://illos.dev/library/shader/failover"
+  },
+  {
+    "name": "DDoS shield",
+    "theme": "shader",
+    "subject": "ddos-shield",
+    "summary": "a flood of requests breaks on the shield, and the one real request gets through.",
+    "theme_name": "Shader",
+    "size": "spot",
+    "file": "svg/shader/ddos-shield.svg",
+    "page": "https://illos.dev/library/shader/ddos-shield"
+  },
+  {
+    "name": "Data warehouse",
+    "theme": "shader",
+    "subject": "data-warehouse",
+    "summary": "raw data from three sources is cleaned into rows, and one query reads across all three.",
+    "theme_name": "Shader",
+    "size": "spot",
+    "file": "svg/shader/data-warehouse.svg",
+    "page": "https://illos.dev/library/shader/data-warehouse"
+  },
+  {
+    "name": "Tool calls",
+    "theme": "shader",
+    "subject": "tool-calls",
+    "summary": "the agent calls search, code and calendar in turn, ticking off each step of the task.",
+    "theme_name": "Shader",
+    "size": "spot",
+    "file": "svg/shader/tool-calls.svg",
+    "page": "https://illos.dev/library/shader/tool-calls"
+  },
+  {
+    "name": "Edge network",
+    "theme": "hud",
+    "subject": "edge",
+    "summary": "requests reach the nearest edge of your network, wherever they start.",
+    "theme_name": "HUD",
+    "size": "spot",
+    "file": "svg/hud/edge.svg",
+    "page": "https://illos.dev/library/hud/edge"
+  },
+  {
+    "name": "Monitoring",
+    "theme": "hud",
+    "subject": "monitoring",
+    "summary": "a sweep checks every service, and the one in trouble raises an alert.",
+    "theme_name": "HUD",
+    "size": "spot",
+    "file": "svg/hud/monitoring.svg",
+    "page": "https://illos.dev/library/hud/monitoring"
+  },
+  {
+    "name": "Search index",
+    "theme": "hud",
+    "subject": "search",
+    "summary": "a query drops through the index and finds its match.",
+    "theme_name": "HUD",
+    "size": "spot",
+    "file": "svg/hud/search.svg",
+    "page": "https://illos.dev/library/hud/search"
+  },
+  {
+    "name": "Traffic map",
+    "theme": "hud",
+    "subject": "traffic",
+    "summary": "requests flow along the routes of your map, busiest first.",
+    "theme_name": "HUD",
+    "size": "spot",
+    "file": "svg/hud/traffic.svg",
+    "page": "https://illos.dev/library/hud/traffic"
+  },
+  {
+    "name": "Scheduler",
+    "theme": "hud",
+    "subject": "orbit",
+    "summary": "a job rides its schedule and fires each run on time.",
+    "theme_name": "HUD",
+    "size": "spot",
+    "file": "svg/hud/orbit.svg",
+    "page": "https://illos.dev/library/hud/orbit"
+  },
+  {
+    "name": "Event broadcast",
+    "theme": "hud",
+    "subject": "signals",
+    "summary": "one event goes out, and every subscriber receives it.",
+    "theme_name": "HUD",
+    "size": "spot",
+    "file": "svg/hud/signals.svg",
+    "page": "https://illos.dev/library/hud/signals"
+  },
+  {
+    "name": "Cost meter",
+    "theme": "hud",
+    "subject": "cost-meter",
+    "summary": "spend climbs toward the budget, and a forecast mark shows where the month will end.",
+    "theme_name": "HUD",
+    "size": "spot",
+    "file": "svg/hud/cost-meter.svg",
+    "page": "https://illos.dev/library/hud/cost-meter"
+  },
+  {
+    "name": "Latency heatmap",
+    "theme": "hud",
+    "subject": "latency-heatmap",
+    "summary": "cells warm where requests are slow, and the hottest route is flagged with its p99.",
+    "theme_name": "HUD",
+    "size": "spot",
+    "file": "svg/hud/latency-heatmap.svg",
+    "page": "https://illos.dev/library/hud/latency-heatmap"
+  },
+  {
+    "name": "Incident timeline",
+    "theme": "hud",
+    "subject": "incident-timeline",
+    "summary": "an alert fires on the timeline, and the incident runs to resolved fifteen minutes later.",
+    "theme_name": "HUD",
+    "size": "spot",
+    "file": "svg/hud/incident-timeline.svg",
+    "page": "https://illos.dev/library/hud/incident-timeline"
+  },
+  {
+    "name": "Log stream",
+    "theme": "hud",
+    "subject": "log-stream",
+    "summary": "log lines scroll past, and the one error is caught and pinned.",
+    "theme_name": "HUD",
+    "size": "spot",
+    "file": "svg/hud/log-stream.svg",
+    "page": "https://illos.dev/library/hud/log-stream"
+  },
+  {
+    "name": "Usage billing",
+    "theme": "hud",
+    "subject": "billing-stack",
+    "summary": "a month of daily usage adds up, and only on day 30 does the invoice print its total.",
+    "theme_name": "HUD",
+    "size": "spot",
+    "file": "svg/hud/billing-stack.svg",
+    "page": "https://illos.dev/library/hud/billing-stack"
+  },
+  {
+    "name": "Alerts",
+    "theme": "hud",
+    "subject": "alerts",
+    "summary": "a metric crosses its threshold, the bell rings, and one key press acknowledges it.",
+    "theme_name": "HUD",
+    "size": "spot",
+    "file": "svg/hud/alerts.svg",
+    "page": "https://illos.dev/library/hud/alerts"
+  },
+  {
+    "name": "Threat detection",
+    "theme": "hud",
+    "subject": "threat-detection",
+    "summary": "the scan sweeps the network, finds the packet that does not belong, and cages it.",
+    "theme_name": "HUD",
+    "size": "spot",
+    "file": "svg/hud/threat-detection.svg",
+    "page": "https://illos.dev/library/hud/threat-detection"
+  },
+  {
+    "name": "Server health",
+    "theme": "hud",
+    "subject": "server-health",
+    "summary": "a job heats the server up, and its fans spin up to bring the temperature down.",
+    "theme_name": "HUD",
+    "size": "spot",
+    "file": "svg/hud/server-health.svg",
+    "page": "https://illos.dev/library/hud/server-health"
+  },
+  {
+    "name": "API status",
+    "theme": "hud",
+    "subject": "api-status",
+    "summary": "an endpoint's latency crosses the SLO, its light turns red, and the next check clears it.",
+    "theme_name": "HUD",
+    "size": "spot",
+    "file": "svg/hud/api-status.svg",
+    "page": "https://illos.dev/library/hud/api-status"
+  },
+  {
+    "name": "Audit log",
+    "theme": "hud",
+    "subject": "audit-log",
+    "summary": "every action is printed on the tape with who and when, and wound onto a locked spool.",
+    "theme_name": "HUD",
+    "size": "spot",
+    "file": "svg/hud/audit-log.svg",
+    "page": "https://illos.dev/library/hud/audit-log"
+  },
+  {
+    "name": "Queue",
+    "theme": "isometric",
+    "subject": "queue",
+    "summary": "jobs wait their turn, and the worker takes the next one.",
+    "theme_name": "Isometric",
+    "size": "spot",
+    "file": "svg/isometric/queue.svg",
+    "page": "https://illos.dev/library/isometric/queue"
+  },
+  {
+    "name": "Usage billing",
+    "theme": "isometric",
+    "subject": "billing",
+    "summary": "usage stacks up in the meter, and at the end of the month it prints the invoice.",
+    "theme_name": "Isometric",
+    "size": "spot",
+    "file": "svg/isometric/billing.svg",
+    "page": "https://illos.dev/library/isometric/billing"
+  },
+  {
+    "name": "Cron jobs",
+    "theme": "isometric",
+    "subject": "cron",
+    "summary": "the clock reaches each mark and stamps a job onto the belt, right on schedule.",
+    "theme_name": "Isometric",
+    "size": "spot",
+    "file": "svg/isometric/cron.svg",
+    "page": "https://illos.dev/library/isometric/cron"
+  },
+  {
+    "name": "Email delivery",
+    "theme": "isometric",
+    "subject": "email",
+    "summary": "letters land in their pigeonholes, and one comes back as a bounce.",
+    "theme_name": "Isometric",
+    "size": "spot",
+    "file": "svg/isometric/email.svg",
+    "page": "https://illos.dev/library/isometric/email"
+  },
+  {
+    "name": "File uploads",
+    "theme": "isometric",
+    "subject": "uploads",
+    "summary": "a file splits into chunks that drop down the chute and come back together in storage.",
+    "theme_name": "Isometric",
+    "size": "spot",
+    "file": "svg/isometric/uploads.svg",
+    "page": "https://illos.dev/library/isometric/uploads"
+  },
+  {
+    "name": "Notifications",
+    "theme": "isometric",
+    "subject": "notifications",
+    "summary": "the bell rings and a card lands on top of the stack on the phone.",
+    "theme_name": "Isometric",
+    "size": "spot",
+    "file": "svg/isometric/notifications.svg",
+    "page": "https://illos.dev/library/isometric/notifications"
+  },
+  {
+    "name": "Version control",
+    "theme": "isometric",
+    "subject": "version-control",
+    "summary": "a branch leaves main, picks up a commit and merges back in.",
+    "theme_name": "Isometric",
+    "size": "spot",
+    "file": "svg/isometric/version-control.svg",
+    "page": "https://illos.dev/library/isometric/version-control"
+  },
+  {
+    "name": "Database migration",
+    "theme": "isometric",
+    "subject": "migration",
+    "summary": "rows move from the old table into the new one and pick up the new column on the way.",
+    "theme_name": "Isometric",
+    "size": "spot",
+    "file": "svg/isometric/migration.svg",
+    "page": "https://illos.dev/library/isometric/migration"
+  },
+  {
+    "name": "Image processing",
+    "theme": "isometric",
+    "subject": "image-processing",
+    "summary": "a photo goes into the press and comes out in three sizes.",
+    "theme_name": "Isometric",
+    "size": "spot",
+    "file": "svg/isometric/image-processing.svg",
+    "page": "https://illos.dev/library/isometric/image-processing"
+  },
+  {
+    "name": "Analytics funnel",
+    "theme": "isometric",
+    "subject": "analytics",
+    "summary": "events drop through the funnel, and the chart rises bar by bar.",
+    "theme_name": "Isometric",
+    "size": "spot",
+    "file": "svg/isometric/analytics.svg",
+    "page": "https://illos.dev/library/isometric/analytics"
+  },
+  {
+    "name": "Database",
+    "theme": "isometric",
+    "subject": "database",
+    "summary": "a query goes in, the read head climbs to the right tier, and the rows come back out.",
+    "theme_name": "Isometric",
+    "size": "spot",
+    "file": "svg/isometric/database.svg",
+    "page": "https://illos.dev/library/isometric/database"
+  },
+  {
+    "name": "Firewall",
+    "theme": "isometric",
+    "subject": "firewall",
+    "summary": "the rule plate lets port 443 through the gate and drops port 23 into the box below.",
+    "theme_name": "Isometric",
+    "size": "spot",
+    "file": "svg/isometric/firewall.svg",
+    "page": "https://illos.dev/library/isometric/firewall"
+  },
+  {
+    "name": "Encryption",
+    "theme": "isometric",
+    "subject": "encryption",
+    "summary": "a readable card goes in and comes out sealed, and only the key opens it again.",
+    "theme_name": "Isometric",
+    "size": "spot",
+    "file": "svg/isometric/encryption.svg",
+    "page": "https://illos.dev/library/isometric/encryption"
+  },
+  {
+    "name": "Two-factor sign-in",
+    "theme": "isometric",
+    "subject": "two-factor",
+    "summary": "a fresh code shows on the token, and the lock opens only once it is keyed in.",
+    "theme_name": "Isometric",
+    "size": "spot",
+    "file": "svg/isometric/two-factor.svg",
+    "page": "https://illos.dev/library/isometric/two-factor"
+  },
+  {
+    "name": "Containers",
+    "theme": "isometric",
+    "subject": "containers",
+    "summary": "the crane lowers a new container into the host, and its light comes on as it runs.",
+    "theme_name": "Isometric",
+    "size": "spot",
+    "file": "svg/isometric/containers.svg",
+    "page": "https://illos.dev/library/isometric/containers"
+  },
+  {
+    "name": "API gateway",
+    "theme": "isometric",
+    "subject": "api-gateway",
+    "summary": "each request is checked at the gateway and turned toward the service it belongs to.",
+    "theme_name": "Isometric",
+    "size": "spot",
+    "file": "svg/isometric/api-gateway.svg",
+    "page": "https://illos.dev/library/isometric/api-gateway"
+  },
+  {
+    "name": "CI pipeline",
+    "theme": "isometric",
+    "subject": "ci-pipeline",
+    "summary": "a commit rides through build, test and ship, and each check lights as it passes.",
+    "theme_name": "Isometric",
+    "size": "spot",
+    "file": "svg/isometric/ci-pipeline.svg",
+    "page": "https://illos.dev/library/isometric/ci-pipeline"
+  }
+]
