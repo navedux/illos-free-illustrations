@@ -1,4 +1,4 @@
-<svg class="li-two-factor" xmlns="http://www.w3.org/2000/svg" width="720" height="460" viewBox="0 0 720 460" fill="none" stroke="#2a2a2a" role="img" aria-labelledby="li-two-factor-t" aria-describedby="li-two-factor-d">
+<svg class="li-two-factor" xmlns="http://www.w3.org/2000/svg" width="720" height="460" viewBox="0 0 720 460" fill="none" stroke="#2a2a2a" role="img" aria-labelledby="li-two-factor-t" aria-describedby="li-two-factor-d" data-illos="line-iso/two-factor" data-illos-id="933d6ff85e7c"><!-- Illos.dev illustration "Two-factor sign-in" (line-iso/two-factor), ID 933d6ff85e7c. License: https://illos.dev/license -->
 <title id="li-two-factor-t">Two-factor sign-in</title>
 <desc id="li-two-factor-d">A code appears on a token beside a keypad padlock; the code is keyed into the lock, its second lamp lights, and the shackle springs open.</desc>
 <style>

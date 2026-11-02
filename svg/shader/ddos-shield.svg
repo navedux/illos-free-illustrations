@@ -1,4 +1,4 @@
-<svg class="sh-ddos-shield" xmlns="http://www.w3.org/2000/svg" width="720" height="460" viewBox="0 0 720 460" fill="none" stroke="#1daf9c" role="img" aria-labelledby="sh-ddos-shield-t" aria-describedby="sh-ddos-shield-d">
+<svg class="sh-ddos-shield" xmlns="http://www.w3.org/2000/svg" width="720" height="460" viewBox="0 0 720 460" fill="none" stroke="#1daf9c" role="img" aria-labelledby="sh-ddos-shield-t" aria-describedby="sh-ddos-shield-d" data-illos="shader/ddos-shield" data-illos-id="d5dd5979aa3d"><!-- Illos.dev illustration "DDoS shield" (shader/ddos-shield), ID d5dd5979aa3d. License: https://illos.dev/license -->
 <title id="sh-ddos-shield-t">DDoS shield</title>
 <desc id="sh-ddos-shield-d">A flood of requests pours in from the left and breaks on a curved shield in front of an app, flaring where each one lands. One real request rides in with the flood, is let through the shield's gate, and reaches the app, which answers it.</desc>
 <style>@scope (svg.sh-ddos-shield) {

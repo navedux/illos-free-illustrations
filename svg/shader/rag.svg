@@ -1,4 +1,4 @@
-<svg class="sh-rag" xmlns="http://www.w3.org/2000/svg" width="720" height="460" viewBox="0 0 720 460" fill="none" stroke="#1daf9c" role="img" aria-labelledby="sh-rag-t" aria-describedby="sh-rag-d">
+<svg class="sh-rag" xmlns="http://www.w3.org/2000/svg" width="720" height="460" viewBox="0 0 720 460" fill="none" stroke="#1daf9c" role="img" aria-labelledby="sh-rag-t" aria-describedby="sh-rag-d" data-illos="shader/rag" data-illos-id="c4146d49c0bf"><!-- Illos.dev illustration "RAG answer" (shader/rag), ID c4146d49c0bf. License: https://illos.dev/license -->
 <title id="sh-rag-t">RAG answer</title>
 <desc id="sh-rag-d">A question lands among a field of document pages; the three closest pages light up and are pulled in around it, and an answer page beside them writes itself line by line from those three, each part ending in a citation mark.</desc>
 <style>@scope (svg.sh-rag) {

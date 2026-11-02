@@ -1,4 +1,4 @@
-<svg class="sf-orbit" xmlns="http://www.w3.org/2000/svg" width="720" height="460" viewBox="0 0 720 460" fill="none" role="img" aria-labelledby="sf-orbit-t">
+<svg class="sf-orbit" xmlns="http://www.w3.org/2000/svg" width="720" height="460" viewBox="0 0 720 460" fill="none" role="img" aria-labelledby="sf-orbit-t" data-illos="scifi/orbit" data-illos-id="5c902d4071ed"><!-- Illos.dev illustration "Scheduler" (scifi/orbit), ID 5c902d4071ed. License: https://illos.dev/license -->
 <title id="sf-orbit-t">Scheduler</title>
 <defs><filter id="sf-orbit-glow" x="-15%" y="-15%" width="130%" height="130%"><feGaussianBlur stdDeviation="2.2"/></filter><clipPath id="sf-orbit-run"><rect class="wipe" x="148.9" y="0" width="440.1" height="460"/></clipPath></defs>
 <style>@scope (svg.sf-orbit) {

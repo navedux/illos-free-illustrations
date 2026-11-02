@@ -1,4 +1,4 @@
-<svg class="sh-dns" xmlns="http://www.w3.org/2000/svg" width="720" height="460" viewBox="0 0 720 460" fill="none" stroke="#1daf9c" role="img" aria-labelledby="sh-dns-t" aria-describedby="sh-dns-d">
+<svg class="sh-dns" xmlns="http://www.w3.org/2000/svg" width="720" height="460" viewBox="0 0 720 460" fill="none" stroke="#1daf9c" role="img" aria-labelledby="sh-dns-t" aria-describedby="sh-dns-d" data-illos="shader/dns" data-illos-id="fc3617ded8d7"><!-- Illos.dev illustration "DNS lookup" (shader/dns), ID fc3617ded8d7. License: https://illos.dev/license -->
 <title id="sh-dns-t">DNS lookup</title>
 <desc id="sh-dns-d">A laptop asks for a name; its resolver asks the root of the name tree, then the COM zone, then the domain's own server, each pointing it to the next, and the server's address record lights and its address comes back to the laptop.</desc>
 <style>@scope (svg.sh-dns) {

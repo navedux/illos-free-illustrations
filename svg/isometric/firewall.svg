@@ -1,4 +1,4 @@
-<svg class="li-firewall" xmlns="http://www.w3.org/2000/svg" width="720" height="460" viewBox="0 0 720 460" fill="none" stroke="#2a2a2a" role="img" aria-labelledby="li-firewall-t" aria-describedby="li-firewall-d">
+<svg class="li-firewall" xmlns="http://www.w3.org/2000/svg" width="720" height="460" viewBox="0 0 720 460" fill="none" stroke="#2a2a2a" role="img" aria-labelledby="li-firewall-t" aria-describedby="li-firewall-d" data-illos="line-iso/firewall" data-illos-id="568226bf3a34"><!-- Illos.dev illustration "Firewall" (line-iso/firewall), ID 568226bf3a34. License: https://illos.dev/license -->
 <title id="li-firewall-t">Firewall</title>
 <desc id="li-firewall-d">Packets ride up to a gate in a wall; a rule plate beside it lets port 443 through the opening and drops port 23 into a box below.</desc>
 <style>

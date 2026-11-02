@@ -1,4 +1,4 @@
-<svg class="sf-alerts" xmlns="http://www.w3.org/2000/svg" width="720" height="460" viewBox="0 0 720 460" fill="none" stroke="#1daf9c" role="img" aria-labelledby="sf-alerts-t" aria-describedby="sf-alerts-d">
+<svg class="sf-alerts" xmlns="http://www.w3.org/2000/svg" width="720" height="460" viewBox="0 0 720 460" fill="none" stroke="#1daf9c" role="img" aria-labelledby="sf-alerts-t" aria-describedby="sf-alerts-d" data-illos="scifi/alerts" data-illos-id="b1616f6f782c"><!-- Illos.dev illustration "Alerts" (scifi/alerts), ID b1616f6f782c. License: https://illos.dev/license -->
 <title id="sf-alerts-t">Alerts</title>
 <desc id="sf-alerts-d">A metric climbs in a level gauge past its threshold collar; the alert runs down a cable, a lamp lights red and an alarm bell rings. Someone presses the acknowledge key, the bell stops, and the level settles back under the threshold as the lamp goes out.</desc>
 <defs><filter id="sf-alerts-glow" x="-15%" y="-15%" width="130%" height="130%"><feGaussianBlur stdDeviation="2.2"/></filter><clipPath id="sf-alerts-level"><rect class="edge" x="106.5" y="142.9" width="80" height="300"/></clipPath></defs>

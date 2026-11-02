@@ -1,4 +1,4 @@
-<svg class="sh-data-warehouse" xmlns="http://www.w3.org/2000/svg" width="720" height="460" viewBox="0 0 720 460" fill="none" stroke="#1daf9c" role="img" aria-labelledby="sh-data-warehouse-t" aria-describedby="sh-data-warehouse-d">
+<svg class="sh-data-warehouse" xmlns="http://www.w3.org/2000/svg" width="720" height="460" viewBox="0 0 720 460" fill="none" stroke="#1daf9c" role="img" aria-labelledby="sh-data-warehouse-t" aria-describedby="sh-data-warehouse-d" data-illos="shader/data-warehouse" data-illos-id="d9971c28f7f0"><!-- Illos.dev illustration "Data warehouse" (shader/data-warehouse), ID d9971c28f7f0. License: https://illos.dev/license -->
 <title id="sh-data-warehouse-t">Data warehouse</title>
 <desc id="sh-data-warehouse-d">An app, a database and an event log each send a batch of raw data; it passes through a cleaning screen and comes out in neat rows, which are written into three ordered tables. A query then reads across all three tables and its result shows.</desc>
 <style>@scope (svg.sh-data-warehouse) {

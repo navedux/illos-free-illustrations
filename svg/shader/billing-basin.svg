@@ -1,4 +1,4 @@
-<svg class="sh-billing-basin" xmlns="http://www.w3.org/2000/svg" width="720" height="460" viewBox="0 0 720 460" fill="none" stroke="#1daf9c" role="img" aria-labelledby="sh-billing-basin-t" aria-describedby="sh-billing-basin-d">
+<svg class="sh-billing-basin" xmlns="http://www.w3.org/2000/svg" width="720" height="460" viewBox="0 0 720 460" fill="none" stroke="#1daf9c" role="img" aria-labelledby="sh-billing-basin-t" aria-describedby="sh-billing-basin-d" data-illos="shader/billing-basin" data-illos-id="6d2611aecfeb"><!-- Illos.dev illustration "Usage billing" (shader/billing-basin), ID 6d2611aecfeb. License: https://illos.dev/license -->
 <title id="sh-billing-basin-t">Usage billing</title>
 <desc id="sh-billing-basin-d">Usage drops fall into a graduated basin and raise its level a step at a time as the month's days pass; at the month's end the basin drains through a narrow outlet into a meter that prints the invoice slip line by line, and the total shows once it is out.</desc>
 <style>@scope (svg.sh-billing-basin) {

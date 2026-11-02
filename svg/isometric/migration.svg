@@ -1,4 +1,4 @@
-<svg class="li-migration" xmlns="http://www.w3.org/2000/svg" width="720" height="460" viewBox="0 0 720 460" fill="none" stroke="#2a2a2a" role="img" aria-labelledby="li-migration-t" aria-describedby="li-migration-d">
+<svg class="li-migration" xmlns="http://www.w3.org/2000/svg" width="720" height="460" viewBox="0 0 720 460" fill="none" stroke="#2a2a2a" role="img" aria-labelledby="li-migration-t" aria-describedby="li-migration-d" data-illos="line-iso/migration" data-illos-id="51a3f207e58c"><!-- Illos.dev illustration "Database migration" (line-iso/migration), ID 51a3f207e58c. License: https://illos.dev/license -->
 <title id="li-migration-t">Database migration</title>
 <desc id="li-migration-d">A schema stamp presses rows moved from the old table into the new table.</desc>
 <style>

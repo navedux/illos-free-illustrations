@@ -1,4 +1,4 @@
-<svg class="sh-failover" xmlns="http://www.w3.org/2000/svg" width="720" height="460" viewBox="0 0 720 460" fill="none" stroke="#1daf9c" role="img" aria-labelledby="sh-failover-t" aria-describedby="sh-failover-d">
+<svg class="sh-failover" xmlns="http://www.w3.org/2000/svg" width="720" height="460" viewBox="0 0 720 460" fill="none" stroke="#1daf9c" role="img" aria-labelledby="sh-failover-t" aria-describedby="sh-failover-d" data-illos="shader/failover" data-illos-id="208997c5a3e6"><!-- Illos.dev illustration "Failover" (shader/failover), ID 208997c5a3e6. License: https://illos.dev/license -->
 <title id="sh-failover-t">Failover</title>
 <desc id="sh-failover-d">Requests flow through a router to one of two regions of server racks. The primary region loses power, the next request is turned back at its edge, and the router marks it down and sends that request and every one after it to the standby, which takes over; a strip of served requests shows no empty slot.</desc>
 <style>@scope (svg.sh-failover) {

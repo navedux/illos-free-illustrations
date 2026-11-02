@@ -1,17 +1,17 @@
 ---
 name: illos-free-illustrations
-description: Pick and place one of the 50 free animated Illos SVG illustrations on a product site or docs page. Use when a page needs a picture for a technical idea, like a queue, cache, rate limit, deploy, search, monitoring or an AI concept, and the project has no illustration of its own for it.
+description: Pick and place one of the 65 free animated Illos SVG illustrations on a product site or docs page. Use when a page needs a picture for a technical idea, like a queue, cache, rate limit, deploy, search, monitoring or an AI concept, and the project has no illustration of its own for it.
 ---
 
 # Free Illos illustrations
 
-50 animated SVG illustrations for product sites, in three themes. Free for personal and commercial use with no credit (https://illos.dev/license). Previews: https://illos.dev/library/free
+65 animated SVG illustrations for product sites, in four themes. Free for personal and commercial use with no credit (https://illos.dev/license). Previews: https://illos.dev/library/free
 
 ## Pick one
 
 1. Read what the section says, and name the one idea it explains.
 2. Find the illustration that shows that idea in the list below (also in `catalog.json`). Match the idea, not a keyword: a section about retries and backoff wants the queue or rate limit, not monitoring.
-3. Use one theme for the whole site. If the site already shows an Illos theme, stay on it. Otherwise choose by the site's look: Shader for AI and data products, HUD for monitoring and infrastructure, Isometric for developer tools and platforms.
+3. Use one theme for the whole site. If the site already shows an Illos theme, stay on it. Otherwise choose by the site's look: Shader for AI and data products, HUD for monitoring and infrastructure, Isometric for developer tools and platforms, Interface for calm product UI moments like settings, invites and onboarding.
 4. If nothing fits, say so and leave the section without an illustration. A near miss looks worse than none.
 
 ## Place it
@@ -22,7 +22,7 @@ description: Pick and place one of the 50 free animated Illos SVG illustrations 
 - Keep the file as it is. It already handles light and dark and reduced motion.
 - Give it room: about half the width of a two-column feature row, or full width above a docs section. Don't put it inside a small card or next to icons.
 
-## The 50
+## The 65
 
 - `svg/shader/vector-search.svg`: **Vector search** (Shader). A query lands among your vectors, and the nearest cluster lights up with its score.
 - `svg/shader/rate-limit.svg`: **Rate limiting** (Shader). Traffic runs under the limit, and the burst above it is refused.
@@ -74,6 +74,21 @@ description: Pick and place one of the 50 free animated Illos SVG illustrations 
 - `svg/isometric/containers.svg`: **Containers** (Isometric). The crane lowers a new container into the host, and its light comes on as it runs.
 - `svg/isometric/api-gateway.svg`: **API gateway** (Isometric). Each request is checked at the gateway and turned toward the service it belongs to.
 - `svg/isometric/ci-pipeline.svg`: **CI pipeline** (Isometric). A commit rides through build, test and ship, and each check lights as it passes.
+- `svg/interface/api-key-copy.svg`: **API key copy** (Interface). One click copies the secret key, and the button confirms it.
+- `svg/interface/appearance-theme.svg`: **Appearance** (Interface). A click switches the theme, and the preview follows.
+- `svg/interface/calendar-booking.svg`: **Calendar booking** (Interface). A visitor picks a time, and the call is booked on the spot.
+- `svg/interface/command-menu.svg`: **Command menu** (Interface). Type three letters and the right command is ready for Enter.
+- `svg/interface/comment-mention.svg`: **Comment mention** (Interface). A teammate is mentioned, and the comment lands in the thread.
+- `svg/interface/feature-flag.svg`: **Feature flag** (Interface). A new feature goes out to half the users, saved with one click.
+- `svg/interface/invoice-reminder.svg`: **Invoice reminder** (Interface). An overdue invoice gets a reminder in one click.
+- `svg/interface/notification-inbox.svg`: **Notification inbox** (Interface). Two unread updates clear with a single click.
+- `svg/interface/requests-chart.svg`: **Requests chart** (Interface). Pick a day on the chart to see its request count.
+- `svg/interface/role-permissions.svg`: **Role permissions** (Interface). One tick in the grid lets editors delete.
+- `svg/interface/search-filters.svg`: **Search filters** (Interface). One filter narrows the results to the docs you need.
+- `svg/interface/settings-toggle.svg`: **Settings toggle** (Interface). Two-step sign-in switches on with a single toggle.
+- `svg/interface/task-board.svg`: **Task board** (Interface). A task moves to Done, and both columns count it.
+- `svg/interface/team-invite.svg`: **Team invite** (Interface). Type an address, press Invite, and the invite joins the team list.
+- `svg/interface/usage-meter.svg`: **Usage meter** (Interface). The meter shows how much of the month's API calls are used.
 
 ## When nothing fits
 

@@ -1,4 +1,4 @@
-<svg class="sf-edge" xmlns="http://www.w3.org/2000/svg" width="720" height="460" viewBox="0 0 720 460" fill="none" stroke="#1daf9c" role="img" aria-labelledby="sf-edge-t" aria-describedby="sf-edge-d">
+<svg class="sf-edge" xmlns="http://www.w3.org/2000/svg" width="720" height="460" viewBox="0 0 720 460" fill="none" stroke="#1daf9c" role="img" aria-labelledby="sf-edge-t" aria-describedby="sf-edge-d" data-illos="scifi/edge" data-illos-id="b8f4a1d46e81"><!-- Illos.dev illustration "Edge network" (scifi/edge), ID b8f4a1d46e81. License: https://illos.dev/license -->
 <title id="sf-edge-t">Edge network</title>
 <desc id="sf-edge-d">Requests travel arcs from points around a globe up to the nearest edge, edge 214.</desc>
 <defs><filter id="sf-edge-glow" x="-15%" y="-15%" width="130%" height="130%"><feGaussianBlur stdDeviation="2.2"/></filter></defs>

@@ -1,4 +1,4 @@
-<svg class="sf-traffic" xmlns="http://www.w3.org/2000/svg" width="720" height="460" viewBox="0 0 720 460" fill="none" stroke="#1daf9c" role="img" aria-labelledby="sf-traffic-t" aria-describedby="sf-traffic-d">
+<svg class="sf-traffic" xmlns="http://www.w3.org/2000/svg" width="720" height="460" viewBox="0 0 720 460" fill="none" stroke="#1daf9c" role="img" aria-labelledby="sf-traffic-t" aria-describedby="sf-traffic-d" data-illos="scifi/traffic" data-illos-id="e36e5af3a6ba"><!-- Illos.dev illustration "Traffic map" (scifi/traffic), ID e36e5af3a6ba. License: https://illos.dev/license -->
 <title id="sf-traffic-t">Traffic map</title>
 <desc id="sf-traffic-d">Requests flow along the routes between blocks and cross at the busiest junction, where a ring pulses.</desc>
 <defs><filter id="sf-traffic-glow" x="-15%" y="-15%" width="130%" height="130%"><feGaussianBlur stdDeviation="2.2"/></filter></defs>

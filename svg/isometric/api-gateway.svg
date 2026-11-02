@@ -1,4 +1,4 @@
-<svg class="li-api-gateway" xmlns="http://www.w3.org/2000/svg" width="720" height="460" viewBox="0 0 720 460" fill="none" stroke="#2a2a2a" role="img" aria-labelledby="li-api-gateway-t" aria-describedby="li-api-gateway-d">
+<svg class="li-api-gateway" xmlns="http://www.w3.org/2000/svg" width="720" height="460" viewBox="0 0 720 460" fill="none" stroke="#2a2a2a" role="img" aria-labelledby="li-api-gateway-t" aria-describedby="li-api-gateway-d" data-illos="line-iso/api-gateway" data-illos-id="7680494ca175"><!-- Illos.dev illustration "API gateway" (line-iso/api-gateway), ID 7680494ca175. License: https://illos.dev/license -->
 <title id="li-api-gateway-t">API gateway</title>
 <desc id="li-api-gateway-d">A gateway sits where four lanes meet. Each request slides onto its turntable, gets a check, and is turned to face the lane of the right service, then slides into that service.</desc>
 <style>

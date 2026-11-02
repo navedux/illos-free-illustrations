@@ -1,4 +1,4 @@
-<svg class="sh-rate-limit" xmlns="http://www.w3.org/2000/svg" width="720" height="460" viewBox="0 0 720 460" fill="none" stroke="#1daf9c" role="img" aria-labelledby="sh-rate-limit-t">
+<svg class="sh-rate-limit" xmlns="http://www.w3.org/2000/svg" width="720" height="460" viewBox="0 0 720 460" fill="none" stroke="#1daf9c" role="img" aria-labelledby="sh-rate-limit-t" data-illos="shader/rate-limit" data-illos-id="ab64e94887fb"><!-- Illos.dev illustration "Rate limiting" (shader/rate-limit), ID ab64e94887fb. License: https://illos.dev/license -->
 <title id="sh-rate-limit-t">Rate limiting</title>
 <style>@scope (svg.sh-rate-limit) {
 :scope{--_ground:#ffffff;--_ink:#2a2a2a;--_ramp-1:#16645a;--_ramp-2:#1daf9c;--_ramp-3:#3fdec9;--_ramp-4:#c2f5ee;--_mark:#178c7d;--_spark:#0b463e}

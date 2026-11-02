@@ -498,5 +498,155 @@
     "size": "spot",
     "file": "svg/isometric/ci-pipeline.svg",
     "page": "https://illos.dev/library/isometric/ci-pipeline"
+  },
+  {
+    "name": "API key copy",
+    "theme": "interface",
+    "subject": "api-key-copy",
+    "summary": "one click copies the secret key, and the button confirms it.",
+    "theme_name": "Interface",
+    "size": "spot",
+    "file": "svg/interface/api-key-copy.svg",
+    "page": "https://illos.dev/library/interface/api-key-copy"
+  },
+  {
+    "name": "Appearance",
+    "theme": "interface",
+    "subject": "appearance-theme",
+    "summary": "a click switches the theme, and the preview follows.",
+    "theme_name": "Interface",
+    "size": "spot",
+    "file": "svg/interface/appearance-theme.svg",
+    "page": "https://illos.dev/library/interface/appearance-theme"
+  },
+  {
+    "name": "Calendar booking",
+    "theme": "interface",
+    "subject": "calendar-booking",
+    "summary": "a visitor picks a time, and the call is booked on the spot.",
+    "theme_name": "Interface",
+    "size": "spot",
+    "file": "svg/interface/calendar-booking.svg",
+    "page": "https://illos.dev/library/interface/calendar-booking"
+  },
+  {
+    "name": "Command menu",
+    "theme": "interface",
+    "subject": "command-menu",
+    "summary": "type three letters and the right command is ready for Enter.",
+    "theme_name": "Interface",
+    "size": "spot",
+    "file": "svg/interface/command-menu.svg",
+    "page": "https://illos.dev/library/interface/command-menu"
+  },
+  {
+    "name": "Comment mention",
+    "theme": "interface",
+    "subject": "comment-mention",
+    "summary": "a teammate is mentioned, and the comment lands in the thread.",
+    "theme_name": "Interface",
+    "size": "spot",
+    "file": "svg/interface/comment-mention.svg",
+    "page": "https://illos.dev/library/interface/comment-mention"
+  },
+  {
+    "name": "Feature flag",
+    "theme": "interface",
+    "subject": "feature-flag",
+    "summary": "a new feature goes out to half the users, saved with one click.",
+    "theme_name": "Interface",
+    "size": "spot",
+    "file": "svg/interface/feature-flag.svg",
+    "page": "https://illos.dev/library/interface/feature-flag"
+  },
+  {
+    "name": "Invoice reminder",
+    "theme": "interface",
+    "subject": "invoice-reminder",
+    "summary": "an overdue invoice gets a reminder in one click.",
+    "theme_name": "Interface",
+    "size": "spot",
+    "file": "svg/interface/invoice-reminder.svg",
+    "page": "https://illos.dev/library/interface/invoice-reminder"
+  },
+  {
+    "name": "Notification inbox",
+    "theme": "interface",
+    "subject": "notification-inbox",
+    "summary": "two unread updates clear with a single click.",
+    "theme_name": "Interface",
+    "size": "spot",
+    "file": "svg/interface/notification-inbox.svg",
+    "page": "https://illos.dev/library/interface/notification-inbox"
+  },
+  {
+    "name": "Requests chart",
+    "theme": "interface",
+    "subject": "requests-chart",
+    "summary": "pick a day on the chart to see its request count.",
+    "theme_name": "Interface",
+    "size": "spot",
+    "file": "svg/interface/requests-chart.svg",
+    "page": "https://illos.dev/library/interface/requests-chart"
+  },
+  {
+    "name": "Role permissions",
+    "theme": "interface",
+    "subject": "role-permissions",
+    "summary": "one tick in the grid lets editors delete.",
+    "theme_name": "Interface",
+    "size": "spot",
+    "file": "svg/interface/role-permissions.svg",
+    "page": "https://illos.dev/library/interface/role-permissions"
+  },
+  {
+    "name": "Search filters",
+    "theme": "interface",
+    "subject": "search-filters",
+    "summary": "one filter narrows the results to the docs you need.",
+    "theme_name": "Interface",
+    "size": "spot",
+    "file": "svg/interface/search-filters.svg",
+    "page": "https://illos.dev/library/interface/search-filters"
+  },
+  {
+    "name": "Settings toggle",
+    "theme": "interface",
+    "subject": "settings-toggle",
+    "summary": "two-step sign-in switches on with a single toggle.",
+    "theme_name": "Interface",
+    "size": "spot",
+    "file": "svg/interface/settings-toggle.svg",
+    "page": "https://illos.dev/library/interface/settings-toggle"
+  },
+  {
+    "name": "Task board",
+    "theme": "interface",
+    "subject": "task-board",
+    "summary": "a task moves to Done, and both columns count it.",
+    "theme_name": "Interface",
+    "size": "spot",
+    "file": "svg/interface/task-board.svg",
+    "page": "https://illos.dev/library/interface/task-board"
+  },
+  {
+    "name": "Team invite",
+    "theme": "interface",
+    "subject": "team-invite",
+    "summary": "type an address, press Invite, and the invite joins the team list.",
+    "theme_name": "Interface",
+    "size": "spot",
+    "file": "svg/interface/team-invite.svg",
+    "page": "https://illos.dev/library/interface/team-invite"
+  },
+  {
+    "name": "Usage meter",
+    "theme": "interface",
+    "subject": "usage-meter",
+    "summary": "the meter shows how much of the month's API calls are used.",
+    "theme_name": "Interface",
+    "size": "spot",
+    "file": "svg/interface/usage-meter.svg",
+    "page": "https://illos.dev/library/interface/usage-meter"
   }
 ]

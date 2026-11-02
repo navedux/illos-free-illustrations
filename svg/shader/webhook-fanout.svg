@@ -1,4 +1,4 @@
-<svg class="sh-webhook-fanout" xmlns="http://www.w3.org/2000/svg" width="720" height="460" viewBox="0 0 720 460" fill="none" stroke="#1daf9c" role="img" aria-labelledby="sh-webhook-fanout-t">
+<svg class="sh-webhook-fanout" xmlns="http://www.w3.org/2000/svg" width="720" height="460" viewBox="0 0 720 460" fill="none" stroke="#1daf9c" role="img" aria-labelledby="sh-webhook-fanout-t" data-illos="shader/webhook-fanout" data-illos-id="ebf0b6e56c82"><!-- Illos.dev illustration "Webhook fan-out" (shader/webhook-fanout), ID ebf0b6e56c82. License: https://illos.dev/license -->
 <title id="sh-webhook-fanout-t">Webhook fan-out</title>
 <style>@scope (svg.sh-webhook-fanout) {
 :scope{--_ground:#ffffff;--_ink:#2a2a2a;--_ramp-1:#16645a;--_ramp-2:#1daf9c;--_ramp-3:#3fdec9;--_ramp-4:#c2f5ee;--_mark:#178c7d;--_spark:#0b463e}

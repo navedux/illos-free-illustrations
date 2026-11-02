@@ -1,4 +1,4 @@
-<svg class="li-ci-pipeline" xmlns="http://www.w3.org/2000/svg" width="720" height="460" viewBox="0 0 720 460" fill="none" stroke="#2a2a2a" role="img" aria-labelledby="li-ci-pipeline-t" aria-describedby="li-ci-pipeline-d">
+<svg class="li-ci-pipeline" xmlns="http://www.w3.org/2000/svg" width="720" height="460" viewBox="0 0 720 460" fill="none" stroke="#2a2a2a" role="img" aria-labelledby="li-ci-pipeline-t" aria-describedby="li-ci-pipeline-d" data-illos="line-iso/ci-pipeline" data-illos-id="a39df273153f"><!-- Illos.dev illustration "CI pipeline" (line-iso/ci-pipeline), ID a39df273153f. License: https://illos.dev/license -->
 <title id="li-ci-pipeline-t">CI pipeline</title>
 <desc id="li-ci-pipeline-d">A commit rides a rail through three stations in a line: build, test and ship. The check on each station lights in turn as it comes through, and the commit leaves on the far side.</desc>
 <style>

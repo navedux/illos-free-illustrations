@@ -1,4 +1,4 @@
-<svg class="sh-tool-calls" xmlns="http://www.w3.org/2000/svg" width="720" height="460" viewBox="0 0 720 460" fill="none" stroke="#1daf9c" role="img" aria-labelledby="sh-tool-calls-t" aria-describedby="sh-tool-calls-d">
+<svg class="sh-tool-calls" xmlns="http://www.w3.org/2000/svg" width="720" height="460" viewBox="0 0 720 460" fill="none" stroke="#1daf9c" role="img" aria-labelledby="sh-tool-calls-t" aria-describedby="sh-tool-calls-d" data-illos="shader/tool-calls" data-illos-id="5ee5a12a592a"><!-- Illos.dev illustration "Tool calls" (shader/tool-calls), ID 5ee5a12a592a. License: https://illos.dev/license -->
 <title id="sh-tool-calls-t">Tool calls</title>
 <desc id="sh-tool-calls-d">A task card is handed to an agent, which calls three tools in turn, a search, a code runner and a calendar; each call goes out, the tool works and its result comes back, ticking a step on the card. Then the agent writes the answer and the task is marked done.</desc>
 <style>@scope (svg.sh-tool-calls) {
